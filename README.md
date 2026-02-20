@@ -1,5 +1,14 @@
-# Vue 3 + Vite
+# Módulo 6 · Lección 1 — Ejercicio Práctico
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Landing page desarrollada con **Vue 3 + Vite** como ejercicio práctico de introducción al framework Vue.js.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+El tema de la página es una guía de unidades del juego **Arc Raiders**.
+
+## Conceptos aplicados
+
+- Componentes con `props`
+- Renderizado dinámico con `v-for`
+- Datos centralizados en un archivo `.json`
+- Ciclo de vida (`onMounted`)
+- Modularización de la aplicación
+- Estilos con `<style scoped>`
