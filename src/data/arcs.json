@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Seeker",
+    "tipo": "Aéreo",
+    "peligrosidad": "Baja",
+    "descripcion": "Dron de reconocimiento ligero. Patrulla zonas abiertas y alerta a unidades cercanas al detectar intrusos.",
+    "habilidad": "Llamada de alerta",
+    "debilidad": "Cabeza (sensor óptico)"
+  },
+  {
+    "id": 2,
+    "nombre": "Stalker",
+    "tipo": "Terrestre",
+    "peligrosidad": "Media",
+    "descripcion": "Unidad de persecución bípeda. Altamente ágil, capaz de seguir a los Raiders por terreno irregular.",
+    "habilidad": "Persecución adaptativa",
+    "debilidad": "Piernas hidráulicas"
+  },
+  {
+    "id": 3,
+    "nombre": "Crawler",
+    "tipo": "Terrestre",
+    "peligrosidad": "Baja",
+    "descripcion": "Unidad de bajo perfil que se desplaza pegada al suelo. Difícil de detectar en zonas con escombros.",
+    "habilidad": "Sigilo rastrero",
+    "debilidad": "Núcleo de energía (parte inferior)"
+  },
+  {
+    "id": 4,
+    "nombre": "Warden",
+    "tipo": "Terrestre pesado",
+    "peligrosidad": "Alta",
+    "descripcion": "Unidad defensiva de gran tamaño. Protege zonas de extracción y cargamentos de recursos de alta en valor.",
+    "habilidad": "Escudo de supresión",
+    "debilidad": "Disipador térmico dorsal"
+  },
+  {
+    "id": 5,
+    "nombre": "Wraith",
+    "tipo": "Aéreo rápido",
+    "peligrosidad": "Alta",
+    "descripcion": "Dron de asalto de alta velocidad. Ataca en oleadas y puede flanquear a los Raiders con rapidez.",
+    "habilidad": "Flanqueo coordinado",
+    "debilidad": "Rotor de propulsión"
+  },
+  {
+    "id": 6,
+    "nombre": "Colossus",
+    "tipo": "Pesado de asedio",
+    "peligrosidad": "Crítica",
+    "descripcion": "Unidad de asedio masiva. Destruye estructuras y requiere trabajo en equipo para ser eliminada eficientemente.",
+    "habilidad": "Cañón de plasma",
+    "debilidad": "Caparazón ventral (puntos de articulación)"
+  }
+]
